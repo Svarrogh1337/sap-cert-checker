@@ -14,6 +14,7 @@ Check SSL certification expiry date
 ### Installing
 ```
 git clone git@github.com:Svarrogh1337/sap-cert-checker.git
+cd sap-cert-checker
 pip3 install -r requirements.txt
 ```
 ### Executing program
